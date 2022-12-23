@@ -1,0 +1,14 @@
+what is html 
+
+HTML :- Hypertext Markup Language
+
+@ HTML is buliding block of the webpage,measn it is the basic thing or language from which a webpage is build 
+@ HTML is only basic structure of a webpage such as skeleton of human body and css is designing part such as skin and hairs in human body.
+@ HTMl is collection of tags such as div,title,html etc.
+@ HTML contains tags , each tag is opened and then closed eg. <div> </div> , here div tag is writeen in <> sign and closed in </> sign 
+@ tag's reach is upto its closing tag.
+@ HTML page can be creaed in texteditor but we use the visual studio code for html tutorials
+@ for info you can seach on internet
+
+
+there is no need of downloading any exe file or software for html it is bultin vs code.

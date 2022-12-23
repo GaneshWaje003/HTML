@@ -1,0 +1,8 @@
+1) open folder in vs code
+
+2) create new file wity any name with .html extension
+
+3) Enter shitf + 1 and enter for getting already created html content
+   you will see emitebrevatin with singl ! mark just enter 
+
+4) Enter the content

@@ -1,0 +1,9 @@
+<a>  This is link </a>
+
+
+@ This is syntax of link or anchor tag 
+@ With the help of anchor tag we can create links of any type such as google, youtube,insta etc. for the 
+@ user webpage , we just have to enter url of desired website in --- href="www.google.com"---- such
+  type   eg. <a href="www.google.com"> This is link for google </a>
+  This looks blue and underlined text.
+@ we can see that mouse becomes pointer after hovering upon it and 

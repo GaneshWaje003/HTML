@@ -1,0 +1,10 @@
+paragraph Tag :-
+
+
+<p>  Content   </p>
+
+
+@ The <p> tag defines a paragraph.
+@ This tag is used when we write descriptive info related a perticular heading or subject.
+@ This tag gives normal size text which plays important task in website like wikipedia. 
+@ Browsers automatically add a single blank line before and after each <p> element.

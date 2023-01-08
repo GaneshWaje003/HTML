@@ -2,3 +2,5 @@ mylg.log
 /new.css
 /new.html
 nose/
+*.css
+/word
